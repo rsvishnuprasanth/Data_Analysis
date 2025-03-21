@@ -23,4 +23,10 @@ This project focuses on an **interactive Excel Sales Dashboard** designed to ana
 ## 🎯 Business Impact
 This dashboard enables organizations to make **data-driven decisions** by analyzing key sales metrics and identifying opportunities for business growth.
 
+## 📸 Project Preview
+![Dashboard Preview](https://github.com/rsvishnuprasanth/Data_Analysis/blob/main/Excel_Software_Sales_Project/Software_Sales_Data_Dashboard.png)
+
+## 📂 Project Files
+- 📊 **Excel Dashboard File:** [Download Software Sales Data](https://github.com/rsvishnuprasanth/Data_Analysis/blob/main/Excel_Software_Sales_Project/Software_Sales__Data.xlsx)
+
 💡 _“Turning raw data into actionable insights for smarter business decisions!”_ 🚀
