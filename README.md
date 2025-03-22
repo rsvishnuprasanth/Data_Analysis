@@ -10,4 +10,8 @@
 - **Data Analysis & Visualization** 📊 | Uncovering trends and patterns
 - **Database Management** 💾 | Designing efficient queries and optimizing performance
 
+- 📊 Projects & Work
+
+Check out my repositories for hands-on projects showcasing data analysis and visualization using my Excel, SQL, Python, and Power BI expertise.
+
 💡 _“Data is the new oil, but only if refined into insights.”_
