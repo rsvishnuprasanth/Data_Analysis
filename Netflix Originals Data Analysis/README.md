@@ -49,4 +49,4 @@ The objective of this project is to perform comprehensive data analysis on **Net
 📊 **SQL Database Files**  
 - [`📥 netflix_originals.sql`](https://github.com/rsvishnuprasanth/Data_Analysis/blob/main/Netflix%20Originals%20Data%20Analysis/Netflix_Originals.csv)  
 - [`📥 genre_details.sql`](https://github.com/rsvishnuprasanth/Data_Analysis/blob/main/Netflix%20Originals%20Data%20Analysis/Genre_Details.csv)  
-- [`📥 Download queries.sql`](https://github.com/rsvishnuprasanth/Data_Analysis/blob/main/Netflix%20Originals%20Data%20Analysis/Netflix_data_queries.sql)  
+- [`📥 Download_queries.sql`](https://github.com/rsvishnuprasanth/Data_Analysis/blob/main/Netflix%20Originals%20Data%20Analysis/Netflix_data_queries.sql)  
